@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntryList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0" createTime="2026-09-01T12:00:00Z" creator="Example Timing 1.0">
+  <Event>
+    <Name>Skogsö Open</Name>
+    <StartTime>
+      <Date>2026-09-01</Date>
+      <Time>10:00:00+02:00</Time>
+    </StartTime>
+  </Event>
+  <TeamEntry>
+    <Id>601</Id>
+    <Name>Northwood OK 1</Name>
+    <Organisation>
+      <Id>34</Id>
+      <Name>Northwood OK</Name>
+      <Country code="DNK">Denmark</Country>
+    </Organisation>
+    <TeamEntryPerson>
+      <Person>
+        <Id type="FED">12345</Id>
+        <Id type="Other">A-1</Id>
+        <Name>
+          <Family>Alder</Family>
+          <Given>Ada</Given>
+        </Name>
+        <Nationality code="DNK">Denmark</Nationality>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+        <Country code="DNK">Denmark</Country>
+      </Organisation>
+      <Leg>1</Leg>
+      <LegOrder>1</LegOrder>
+      <ControlCard punchingSystem="SI">8123456</ControlCard>
+    </TeamEntryPerson>
+    <TeamEntryPerson>
+      <Leg>2</Leg>
+    </TeamEntryPerson>
+    <Class>
+      <Id>3</Id>
+      <Name>Mixed relay</Name>
+      <Leg>
+        <Name>Leg 1</Name>
+      </Leg>
+      <Leg>
+        <Name>Leg 2</Name>
+      </Leg>
+    </Class>
+    <AssignedFee>
+      <Fee>
+        <Name>D21</Name>
+        <Amount currency="DKK">120.00</Amount>
+      </Fee>
+    </AssignedFee>
+  </TeamEntry>
+  <PersonEntry>
+    <Id>501</Id>
+    <Person>
+      <Id type="FED">12345</Id>
+      <Id type="Other">A-1</Id>
+      <Name>
+        <Family>Alder</Family>
+        <Given>Ada</Given>
+      </Name>
+      <Nationality code="DNK">Denmark</Nationality>
+    </Person>
+    <Organisation>
+      <Id>34</Id>
+      <Name>Northwood OK</Name>
+      <Country code="DNK">Denmark</Country>
+    </Organisation>
+    <ControlCard punchingSystem="SI">8123456</ControlCard>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+      <ShortName>D21</ShortName>
+    </Class>
+    <AssignedFee>
+      <Fee>
+        <Name>D21</Name>
+        <Amount currency="DKK">120.00</Amount>
+      </Fee>
+    </AssignedFee>
+  </PersonEntry>
+</EntryList>

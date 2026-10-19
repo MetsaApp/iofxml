@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0" createTime="2026-09-01T11:20:00+02:00" creator="Example Timing 1.0" status="Snapshot">
+  <Event>
+    <Name>Skogsö Open</Name>
+    <StartTime>
+      <Date>2026-09-01</Date>
+    </StartTime>
+  </Event>
+  <ClassResult>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+    </Class>
+    <Course>
+      <Length>5200</Length>
+      <Climb>120</Climb>
+    </Course>
+    <PersonResult>
+      <Person>
+        <Id type="FED">12345</Id>
+        <Name>
+          <Family>Alder</Family>
+          <Given>Ada</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+      </Organisation>
+      <Result>
+        <BibNumber>101</BibNumber>
+        <StartTime>2026-09-01T10:38:00+02:00</StartTime>
+        <FinishTime>2026-09-01T11:13:12+02:00</FinishTime>
+        <Time>2112.4</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>31</ControlCode>
+          <Time>723</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>32</ControlCode>
+          <Time>901</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>45</ControlCode>
+          <Time>1502</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2050</Time>
+        </SplitTime>
+        <ControlCard punchingSystem="SI">8123456</ControlCard>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person>
+        <Id type="FED">12346</Id>
+        <Name>
+          <Family>Maple</Family>
+          <Given>Mia</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>Riverside SK</Name>
+      </Organisation>
+      <Result>
+        <BibNumber>102</BibNumber>
+        <StartTime>2026-09-01T10:40:00+02:00</StartTime>
+        <Status>Active</Status>
+        <SplitTime>
+          <ControlCode>31</ControlCode>
+          <Time>740</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>45</ControlCode>
+          <Time>1490</Time>
+        </SplitTime>
+        <ControlCard>8123457</ControlCard>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person>
+        <Name>
+          <Family>Spruce</Family>
+          <Given>Sara</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+      </Organisation>
+      <Result>
+        <BibNumber>103</BibNumber>
+        <StartTime>2026-09-01T10:42:00+02:00</StartTime>
+        <Status>Inactive</Status>
+        <ControlCard>8123458</ControlCard>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+</ResultList>

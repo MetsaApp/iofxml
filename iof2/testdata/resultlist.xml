@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
+<ResultList status="complete">
+  <IOFVersion version="2.0.3" />
+  <Event>
+    <EventId>1</EventId>
+    <Name>Skogsö Open</Name>
+    <EventClassificationId>local</EventClassificationId>
+    <StartDate>
+      <Date>2026-09-01</Date>
+      <Clock>10:00:00</Clock>
+    </StartDate>
+  </Event>
+  <ClassResult>
+    <ClassShortName>D21</ClassShortName>
+    <PersonResult>
+      <Person sex="F">
+        <PersonName>
+          <Family>Alder</Family>
+          <Given sequence="1">Ada</Given>
+        </PersonName>
+        <PersonId type="nat">12345</PersonId>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Result>
+        <StartNumber>101</StartNumber>
+        <CCardId>8123456</CCardId>
+        <StartTime>
+          <Clock>10:38:00</Clock>
+        </StartTime>
+        <FinishTime>
+          <Clock>11:13:12</Clock>
+        </FinishTime>
+        <Time>35:12</Time>
+        <ResultPosition>1</ResultPosition>
+        <CompetitorStatus value="OK" />
+        <CourseLength unit="m">5200</CourseLength>
+        <SplitTime sequence="1">
+          <ControlCode>31</ControlCode>
+          <Time>12:03</Time>
+        </SplitTime>
+        <SplitTime sequence="2">
+          <ControlCode>32</ControlCode>
+          <Time>15:01</Time>
+        </SplitTime>
+        <SplitTime sequence="3">
+          <ControlCode>45</ControlCode>
+          <Time>25:02</Time>
+        </SplitTime>
+        <SplitTime sequence="4">
+          <ControlCode>100</ControlCode>
+          <Time>34:10</Time>
+        </SplitTime>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <PersonName>
+          <Family>Maple</Family>
+          <Given sequence="1">Mia</Given>
+        </PersonName>
+        <PersonId type="nat">12346</PersonId>
+      </Person>
+      <Club>
+        <ClubId>35</ClubId>
+        <ShortName>Riverside SK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Result>
+        <StartNumber>102</StartNumber>
+        <CCardId>8123457</CCardId>
+        <StartTime>
+          <Clock>10:40:00</Clock>
+        </StartTime>
+        <CompetitorStatus value="Active" />
+        <CourseLength unit="m">5200</CourseLength>
+        <SplitTime sequence="1">
+          <ControlCode>31</ControlCode>
+          <Time>12:20</Time>
+        </SplitTime>
+        <SplitTime sequence="2">
+          <ControlCode>45</ControlCode>
+          <Time>24:50</Time>
+        </SplitTime>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <PersonName>
+          <Family>Spruce</Family>
+          <Given sequence="1">Sara</Given>
+        </PersonName>
+        <PersonId></PersonId>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Result>
+        <StartNumber>103</StartNumber>
+        <CCardId>8123458</CCardId>
+        <StartTime>
+          <Clock>10:42:00</Clock>
+        </StartTime>
+        <CompetitorStatus value="DidNotStart" />
+        <CourseLength unit="m">5200</CourseLength>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <ClassShortName>H21</ClassShortName>
+    <PersonResult>
+      <Person sex="M">
+        <PersonName>
+          <Family>Juniper</Family>
+          <Given sequence="1">Jon</Given>
+        </PersonName>
+        <PersonId type="nat">22345</PersonId>
+      </Person>
+      <Club>
+        <ClubId>35</ClubId>
+        <ShortName>Riverside SK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Result>
+        <StartNumber>201</StartNumber>
+        <CCardId>8223456</CCardId>
+        <StartTime>
+          <Clock>10:39:00</Clock>
+        </StartTime>
+        <FinishTime>
+          <Clock>11:15:05</Clock>
+        </FinishTime>
+        <Time>36:05</Time>
+        <CompetitorStatus value="MisPunch" />
+        <CourseLength unit="m">6100</CourseLength>
+        <SplitTime sequence="1">
+          <ControlCode>31</ControlCode>
+          <Time>12:20</Time>
+        </SplitTime>
+        <SplitTime sequence="2">
+          <ControlCode>32</ControlCode>
+        </SplitTime>
+        <SplitTime sequence="3">
+          <ControlCode>45</ControlCode>
+          <Time>24:50</Time>
+        </SplitTime>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <PersonName>
+          <Family>Pine</Family>
+          <Given sequence="1">Paul</Given>
+        </PersonName>
+        <PersonId type="nat">22346</PersonId>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Result>
+        <StartNumber>202</StartNumber>
+        <CCardId>8223457</CCardId>
+        <StartTime>
+          <Clock>10:41:00</Clock>
+        </StartTime>
+        <FinishTime>
+          <Clock>11:14:41</Clock>
+        </FinishTime>
+        <Time>33:41</Time>
+        <ResultPosition>1</ResultPosition>
+        <CompetitorStatus value="OK" />
+        <CourseLength unit="m">6100</CourseLength>
+        <SplitTime sequence="1">
+          <ControlCode>31</ControlCode>
+          <Time>11:30</Time>
+        </SplitTime>
+        <SplitTime sequence="2">
+          <ControlCode>32</ControlCode>
+          <Time>14:12</Time>
+        </SplitTime>
+        <SplitTime sequence="3">
+          <ControlCode>45</ControlCode>
+          <Time>23:58</Time>
+        </SplitTime>
+        <SplitTime sequence="4">
+          <ControlCode>100</ControlCode>
+          <Time>32:40</Time>
+        </SplitTime>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+</ResultList>

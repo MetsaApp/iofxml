@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StartList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0" createTime="2026-09-01T07:30:00+02:00" creator="Example Timing 1.0">
+  <Event>
+    <Name>Skogsö Open</Name>
+    <StartTime>
+      <Date>2026-09-01</Date>
+    </StartTime>
+  </Event>
+  <ClassStart>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+    </Class>
+    <Course>
+      <Length>5200</Length>
+      <Climb>120</Climb>
+    </Course>
+    <PersonStart>
+      <Person>
+        <Id type="FED">12345</Id>
+        <Name>
+          <Family>Alder</Family>
+          <Given>Ada</Given>
+        </Name>
+        <Nationality code="DNK">Denmark</Nationality>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+        <Country code="DNK">Denmark</Country>
+      </Organisation>
+      <Start>
+        <BibNumber>101</BibNumber>
+        <StartTime>2026-09-01T10:38:00+02:00</StartTime>
+        <ControlCard punchingSystem="SI">8123456</ControlCard>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person>
+        <Id type="FED">12346</Id>
+        <Name>
+          <Family>Maple</Family>
+          <Given>Mia</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>Riverside SK</Name>
+      </Organisation>
+      <Start>
+        <BibNumber>102</BibNumber>
+        <StartTime>2026-09-01T10:40:00+02:00</StartTime>
+        <ControlCard>8123457</ControlCard>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person>
+        <Name>
+          <Family>Spruce</Family>
+          <Given>Sara</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+      </Organisation>
+      <Start>
+        <BibNumber>103</BibNumber>
+        <StartTime>2026-09-01T10:42:00+02:00</StartTime>
+        <ControlCard>8123458</ControlCard>
+      </Start>
+    </PersonStart>
+  </ClassStart>
+  <ClassStart>
+    <Class>
+      <Id>2</Id>
+      <Name>H21</Name>
+    </Class>
+    <PersonStart>
+      <Person>
+        <Id type="FED">22345</Id>
+        <Name>
+          <Family>Juniper</Family>
+          <Given>Jon</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>Riverside SK</Name>
+      </Organisation>
+      <Start>
+        <BibNumber>201</BibNumber>
+        <StartTime>2026-09-01T10:39:00+02:00</StartTime>
+        <ControlCard>8223456</ControlCard>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person>
+        <Id type="FED">22346</Id>
+        <Name>
+          <Family>Pine</Family>
+          <Given>Paul</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+      </Organisation>
+      <Start>
+        <BibNumber>202</BibNumber>
+        <StartTime>2026-09-01T10:41:00+02:00</StartTime>
+        <ControlCard>8223457</ControlCard>
+      </Start>
+    </PersonStart>
+  </ClassStart>
+</StartList>

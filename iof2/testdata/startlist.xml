@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE StartList SYSTEM "IOFdata.dtd">
+<StartList>
+  <IOFVersion version="2.0.3" />
+  <Event>
+    <EventId>1</EventId>
+    <Name>Skogsö Open</Name>
+    <EventClassificationId>local</EventClassificationId>
+    <StartDate>
+      <Date>2026-09-01</Date>
+      <Clock>10:00:00</Clock>
+    </StartDate>
+  </Event>
+  <ClassStart>
+    <ClassShortName>D21</ClassShortName>
+    <PersonStart>
+      <Person sex="F">
+        <PersonName>
+          <Family>Alder</Family>
+          <Given sequence="1">Ada</Given>
+        </PersonName>
+        <PersonId type="nat">12345</PersonId>
+        <Nationality>
+          <CountryId value="DEN" />
+        </Nationality>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <Name>Northwood Orienteering Club, Åby</Name>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Start>
+        <StartNumber>101</StartNumber>
+        <CCardId>8123456</CCardId>
+        <StartTime>
+          <Clock>10:38:00</Clock>
+        </StartTime>
+        <CourseLength unit="m">5200</CourseLength>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person sex="F">
+        <PersonName>
+          <Family>Maple</Family>
+          <Given sequence="1">Mia</Given>
+        </PersonName>
+        <PersonId type="nat">12346</PersonId>
+      </Person>
+      <Club>
+        <ClubId>35</ClubId>
+        <ShortName>Riverside SK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Start>
+        <StartNumber>102</StartNumber>
+        <CCardId>8123457</CCardId>
+        <StartTime>
+          <Clock>10:40:00</Clock>
+        </StartTime>
+        <CourseLength unit="m">5200</CourseLength>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person sex="F">
+        <PersonName>
+          <Family>Spruce</Family>
+          <Given sequence="1">Sara</Given>
+        </PersonName>
+        <PersonId></PersonId>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Start>
+        <StartNumber>103</StartNumber>
+        <CCard>
+          <CCardId>8123458</CCardId>
+          <PunchingUnitType value="SI" />
+        </CCard>
+        <StartTime>
+          <Clock>10:42:00</Clock>
+        </StartTime>
+        <CourseLength unit="m">5200</CourseLength>
+      </Start>
+    </PersonStart>
+  </ClassStart>
+  <ClassStart>
+    <ClassShortName>H21</ClassShortName>
+    <PersonStart>
+      <Person sex="M">
+        <PersonName>
+          <Family>Juniper</Family>
+          <Given sequence="1">Jon</Given>
+        </PersonName>
+        <PersonId type="nat">22345</PersonId>
+      </Person>
+      <Club>
+        <ClubId>35</ClubId>
+        <ShortName>Riverside SK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Start>
+        <StartNumber>201</StartNumber>
+        <CCardId>8223456</CCardId>
+        <StartTime>
+          <Clock>10:39:00</Clock>
+        </StartTime>
+        <CourseLength unit="m">6100</CourseLength>
+      </Start>
+    </PersonStart>
+    <PersonStart>
+      <Person sex="M">
+        <PersonName>
+          <Family>Pine</Family>
+          <Given sequence="1">Paul</Given>
+        </PersonName>
+        <PersonId type="nat">22346</PersonId>
+      </Person>
+      <Club>
+        <ClubId>34</ClubId>
+        <ShortName>Northwood OK</ShortName>
+        <CountryId value="DEN" />
+      </Club>
+      <Start>
+        <StartNumber>202</StartNumber>
+        <CCardId>8223457</CCardId>
+        <StartTime>
+          <Clock>10:41:00</Clock>
+        </StartTime>
+        <CourseLength unit="m">6100</CourseLength>
+      </Start>
+    </PersonStart>
+  </ClassStart>
+</StartList>

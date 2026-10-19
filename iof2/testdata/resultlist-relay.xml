@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
+<ResultList status="snapshot">
+  <IOFVersion version="2.0.3" />
+  <Event>
+    <EventId>1</EventId>
+    <Name>Skogsö Open</Name>
+    <EventClassificationId>local</EventClassificationId>
+    <StartDate>
+      <Date>2026-09-01</Date>
+      <Clock>10:00:00</Clock>
+    </StartDate>
+  </Event>
+  <ClassResult>
+    <EventClass>
+      <Class sex="B" numberInTeam="2" teamEntry="Y">
+        <ClassId>3</ClassId>
+        <ClassShortName>Mixed relay</ClassShortName>
+      </Class>
+    </EventClass>
+    <TeamResult>
+      <TeamName>Northwood OK 1</TeamName>
+      <CountryId value="DEN" />
+      <StartNumber>1</StartNumber>
+      <StartTime>
+        <Date>2026-09-01</Date>
+        <Clock>11:30:00</Clock>
+      </StartTime>
+      <Time timeFormat="HH:MM:SS">00:20:30</Time>
+      <TeamStatus value="Active" />
+      <PersonResult>
+        <Person sex="F">
+          <PersonName>
+            <Family>Alder</Family>
+            <Given sequence="1">Ada</Given>
+          </PersonName>
+          <PersonId type="nat">12345</PersonId>
+        </Person>
+        <Club>
+          <ClubId>34</ClubId>
+          <ShortName>Northwood OK</ShortName>
+          <CountryId value="DEN" />
+        </Club>
+        <Result>
+          <StartNumber>1-1</StartNumber>
+          <CCardId>8123456</CCardId>
+          <StartTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:30:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:50:30</Clock>
+          </FinishTime>
+          <Time timeFormat="HH:MM:SS">00:20:30</Time>
+          <ResultPosition>1</ResultPosition>
+          <CompetitorStatus value="OK" />
+          <TeamSequence>1</TeamSequence>
+          <SplitTime sequence="1">
+            <ControlCode>31</ControlCode>
+            <Time timeFormat="HH:MM:SS">00:06:50</Time>
+          </SplitTime>
+        </Result>
+      </PersonResult>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Pine</Family>
+            <Given sequence="1">Paul</Given>
+          </PersonName>
+          <PersonId type="nat">22346</PersonId>
+        </Person>
+        <Result>
+          <StartNumber>1-2</StartNumber>
+          <CCardId>8223457</CCardId>
+          <StartTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:50:30</Clock>
+          </StartTime>
+          <CompetitorStatus value="Active" />
+          <TeamSequence>2</TeamSequence>
+          <SplitTime sequence="1">
+            <ControlCode>31</ControlCode>
+            <Time timeFormat="HH:MM:SS">00:06:35</Time>
+          </SplitTime>
+        </Result>
+      </PersonResult>
+    </TeamResult>
+    <TeamResult>
+      <TeamName>Riverside SK 1</TeamName>
+      <CountryId value="DEN" />
+      <StartNumber>2</StartNumber>
+      <StartTime>
+        <Date>2026-09-01</Date>
+        <Clock>11:30:00</Clock>
+      </StartTime>
+      <Time timeFormat="HH:MM:SS">00:22:00</Time>
+      <TeamStatus value="Active" />
+      <PersonResult>
+        <Person sex="F">
+          <PersonName>
+            <Family>Maple</Family>
+            <Given sequence="1">Mia</Given>
+          </PersonName>
+          <PersonId type="nat">12346</PersonId>
+        </Person>
+        <Club>
+          <ClubId>35</ClubId>
+          <ShortName>Riverside SK</ShortName>
+          <CountryId value="DEN" />
+        </Club>
+        <Result>
+          <StartNumber>2-1</StartNumber>
+          <CCardId>8123457</CCardId>
+          <StartTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:30:00</Clock>
+          </StartTime>
+          <FinishTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:52:00</Clock>
+          </FinishTime>
+          <Time timeFormat="HH:MM:SS">00:22:00</Time>
+          <ResultPosition>2</ResultPosition>
+          <CompetitorStatus value="OK" />
+          <TeamSequence>1</TeamSequence>
+        </Result>
+      </PersonResult>
+      <PersonResult>
+        <Person sex="M">
+          <PersonName>
+            <Family>Juniper</Family>
+            <Given sequence="1">Jon</Given>
+          </PersonName>
+          <PersonId type="nat">22345</PersonId>
+        </Person>
+        <Result>
+          <StartNumber>2-2</StartNumber>
+          <CCardId>8223456</CCardId>
+          <StartTime>
+            <Date>2026-09-01</Date>
+            <Clock>11:52:00</Clock>
+          </StartTime>
+          <CompetitorStatus value="Active" />
+          <TeamSequence>2</TeamSequence>
+        </Result>
+      </PersonResult>
+    </TeamResult>
+  </ClassResult>
+</ResultList>

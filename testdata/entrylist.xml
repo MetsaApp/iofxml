@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntryList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0" createTime="2026-08-28T20:00:00+02:00" creator="Example Timing 1.0">
+  <Event>
+    <Name>Skogsö Open</Name>
+    <StartTime>
+      <Date>2026-09-01</Date>
+    </StartTime>
+  </Event>
+  <PersonEntry>
+    <Id>501</Id>
+    <Person>
+      <Id type="FED">12345</Id>
+      <Name>
+        <Family>Alder</Family>
+        <Given>Ada</Given>
+      </Name>
+    </Person>
+    <Organisation>
+      <Id>34</Id>
+      <Name>Northwood OK</Name>
+      <Country code="DNK">Denmark</Country>
+    </Organisation>
+    <ControlCard punchingSystem="SI">8123456</ControlCard>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+    </Class>
+  </PersonEntry>
+  <PersonEntry>
+    <Id>502</Id>
+    <Person>
+      <Name>
+        <Family>Spruce</Family>
+        <Given>Sara</Given>
+      </Name>
+    </Person>
+    <Organisation>
+      <Id>34</Id>
+      <Name>Northwood OK</Name>
+    </Organisation>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+    </Class>
+  </PersonEntry>
+  <PersonEntry>
+    <Id>503</Id>
+    <Person>
+      <Id type="FED">22345</Id>
+      <Name>
+        <Family>Juniper</Family>
+        <Given>Jon</Given>
+      </Name>
+    </Person>
+    <Organisation>
+      <Id>35</Id>
+      <Name>Riverside SK</Name>
+    </Organisation>
+    <ControlCard>8223456</ControlCard>
+    <Class>
+      <Id>2</Id>
+      <Name>H21</Name>
+    </Class>
+  </PersonEntry>
+  <TeamEntry>
+    <Id>601</Id>
+    <Name>Northwood OK 1</Name>
+    <Organisation>
+      <Id>34</Id>
+      <Name>Northwood OK</Name>
+    </Organisation>
+    <TeamEntryPerson>
+      <Person>
+        <Id type="FED">12345</Id>
+        <Name>
+          <Family>Alder</Family>
+          <Given>Ada</Given>
+        </Name>
+      </Person>
+      <Leg>1</Leg>
+      <ControlCard>8123456</ControlCard>
+    </TeamEntryPerson>
+    <TeamEntryPerson>
+      <Person>
+        <Id type="FED">22346</Id>
+        <Name>
+          <Family>Pine</Family>
+          <Given>Paul</Given>
+        </Name>
+      </Person>
+      <Leg>2</Leg>
+      <ControlCard>8223457</ControlCard>
+    </TeamEntryPerson>
+    <Class>
+      <Id>3</Id>
+      <Name>Mixed relay</Name>
+    </Class>
+  </TeamEntry>
+</EntryList>

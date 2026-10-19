@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StartList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0" createTime="2026-09-01T12:00:00Z" creator="Example Timing 1.0">
+  <Event>
+    <Name>Skogsö Open</Name>
+    <StartTime>
+      <Date>2026-09-01</Date>
+      <Time>10:00:00+02:00</Time>
+    </StartTime>
+  </Event>
+  <ClassStart>
+    <Class>
+      <Id>1</Id>
+      <Name>D21</Name>
+      <ShortName>D21</ShortName>
+    </Class>
+    <Course>
+      <Id>A</Id>
+      <Name>Long</Name>
+      <Length>5200</Length>
+      <Climb>120</Climb>
+    </Course>
+    <PersonStart>
+      <EntryId>501</EntryId>
+      <Person>
+        <Id type="FED">12345</Id>
+        <Id type="Other">A-1</Id>
+        <Name>
+          <Family>Alder</Family>
+          <Given>Ada</Given>
+        </Name>
+        <Nationality code="DNK">Denmark</Nationality>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+        <Country code="DNK">Denmark</Country>
+      </Organisation>
+      <Start>
+        <BibNumber>101</BibNumber>
+        <StartTime>2026-09-01T10:38:00+02:00</StartTime>
+        <ControlCard punchingSystem="SI">8123456</ControlCard>
+      </Start>
+    </PersonStart>
+  </ClassStart>
+  <ClassStart>
+    <Class>
+      <Id>3</Id>
+      <Name>Mixed relay</Name>
+      <Leg>
+        <Name>Leg 1</Name>
+      </Leg>
+      <Leg>
+        <Name>Leg 2</Name>
+      </Leg>
+    </Class>
+    <TeamStart>
+      <EntryId>601</EntryId>
+      <Name>Northwood OK 1</Name>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Northwood OK</Name>
+        <Country code="DNK">Denmark</Country>
+      </Organisation>
+      <BibNumber>1</BibNumber>
+      <TeamMemberStart>
+        <Person>
+          <Name>
+            <Family>Pine</Family>
+            <Given>Paul</Given>
+          </Name>
+        </Person>
+        <Organisation>
+          <Id>34</Id>
+          <Name>Northwood OK</Name>
+          <Country code="DNK">Denmark</Country>
+        </Organisation>
+        <Start>
+          <Leg>1</Leg>
+          <LegOrder>1</LegOrder>
+          <BibNumber>1-1</BibNumber>
+          <StartTime>2026-09-01T11:30:00+02:00</StartTime>
+          <ControlCard punchingSystem="SI">8123456</ControlCard>
+        </Start>
+      </TeamMemberStart>
+    </TeamStart>
+  </ClassStart>
+</StartList>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EntryList SYSTEM "IOFdata.dtd">
+<EntryList>
+  <IOFVersion version="2.0.3" />
+  <ClubEntry>
+    <Club>
+      <ClubId>34</ClubId>
+      <Name>Northwood Orienteering Club, Åby</Name>
+      <ShortName>Northwood OK</ShortName>
+      <CountryId value="DEN" />
+    </Club>
+    <Entry>
+      <EntryId>501</EntryId>
+      <Person sex="F">
+        <PersonName>
+          <Family>Alder</Family>
+          <Given sequence="1">Ada</Given>
+        </PersonName>
+        <PersonId type="nat">12345</PersonId>
+      </Person>
+      <CCard>
+        <CCardId>8123456</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass sequence="1">
+        <ClassShortName>D21</ClassShortName>
+      </EntryClass>
+      <EntryDate>
+        <Date>2026-08-28</Date>
+      </EntryDate>
+    </Entry>
+    <Entry>
+      <EntryId>502</EntryId>
+      <Person sex="F">
+        <PersonName>
+          <Family>Spruce</Family>
+          <Given sequence="1">Sara</Given>
+        </PersonName>
+        <PersonId></PersonId>
+      </Person>
+      <EntryClass sequence="1">
+        <ClassShortName>D21</ClassShortName>
+      </EntryClass>
+      <EntryDate>
+        <Date>2026-08-28</Date>
+      </EntryDate>
+    </Entry>
+    <Entry>
+      <EntryId>601</EntryId>
+      <TeamName>Northwood OK 1</TeamName>
+      <Person sex="F">
+        <PersonName>
+          <Family>Alder</Family>
+          <Given sequence="1">Ada</Given>
+        </PersonName>
+        <PersonId type="nat">12345</PersonId>
+      </Person>
+      <CCard>
+        <CCardId>8123456</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <TeamSequence>1</TeamSequence>
+      <Person sex="M">
+        <PersonName>
+          <Family>Pine</Family>
+          <Given sequence="1">Paul</Given>
+        </PersonName>
+        <PersonId type="nat">22346</PersonId>
+      </Person>
+      <CCard>
+        <CCardId>8223457</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <TeamSequence>2</TeamSequence>
+      <EntryClass sequence="1">
+        <ClassShortName>Mixed relay</ClassShortName>
+      </EntryClass>
+      <EntryDate>
+        <Date>2026-08-28</Date>
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId>35</ClubId>
+      <ShortName>Riverside SK</ShortName>
+      <CountryId value="DEN" />
+    </Club>
+    <Entry>
+      <EntryId>503</EntryId>
+      <Person sex="M">
+        <PersonName>
+          <Family>Juniper</Family>
+          <Given sequence="1">Jon</Given>
+        </PersonName>
+        <PersonId type="nat">22345</PersonId>
+      </Person>
+      <CCard>
+        <CCardId>8223456</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass sequence="1">
+        <ClassShortName>H21</ClassShortName>
+      </EntryClass>
+      <EntryDate>
+        <Date>2026-08-28</Date>
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+</EntryList>
