@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Runs scripts/check.sh before every push. Enable with:
+#   git config core.hooksPath .githooks
+if ! "$(git rev-parse --show-toplevel)/scripts/check.sh"; then
+  echo >&2
+  echo "pre-push: scripts/check.sh failed, so nothing was pushed." >&2
+  echo "Fix it and push again, or skip the check once with: git push --no-verify" >&2
+  exit 1
+fi
